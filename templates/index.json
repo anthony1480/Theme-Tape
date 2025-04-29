@@ -453,10 +453,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>@Nafasitape</strong></p>",
+            "text": "<p><strong>@VimTape</strong></p>",
             "text_size": "typeset2",
             "secondary_color": true,
-            "highlight_phrases": "@Nafasitape",
+            "highlight_phrases": "@VimTape",
             "highlight_style": "circle"
           }
         }
