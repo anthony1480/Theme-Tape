@@ -71,7 +71,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>98% Of people</strong> face lack of Energy thinking it's because of their diet but actually it's because of <strong>lack of oxygen</strong> into their heads, this is why NafasiTape has been a game changer for more than <strong>30,000 People</strong></p>",
+            "text": "<p><strong>98% Of people</strong> face lack of Energy thinking it's because of their diet but actually it's because of <strong>lack of oxygen</strong> into their heads, this is why VimTape has been a game changer for more than <strong>30,000 People</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "98% Of people\n30,000 People",
@@ -351,7 +351,7 @@
         "text_U7BLhR": {
           "type": "text",
           "settings": {
-            "text": "<p>Nafasi has been a game changer for most, specially in winter while everyone is having the flu. Breathe Better Forever</p>",
+            "text": "<p>VimTape has been a game changer for most, specially in winter while everyone is having the flu. Breathe Better Forever</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -391,32 +391,32 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>This is the best thing i have ever bought, i just love it.</p>",
-            "author": "Layal. K"
+            "text": "<p>Very good, helps alot to breathe</p>",
+            "author": "Abina"
           }
         },
         "testimonial-1": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Wow, sar menkhare byes7ab baher</p>",
-            "author": "Ali. T"
+            "text": "<p>I love it so much and use it everyday</p>",
+            "author": "Aboagye"
           }
         },
         "testimonial-2": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Ouf men wa2et ma jebta w nashat levels on the roof</p>",
-            "author": "Elias . D"
+            "text": "<p>This is very good and recommended product</p>",
+            "author": "Acheampong"
           }
         },
         "testimonial-3": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Tlo3na sarlna 20 sene ma mnetnafas mazbout</p>",
-            "author": "Charbel .M"
+            "text": "<p>It's been a long time since i breathed this way</p>",
+            "author": "Kwame"
           }
         }
       },
