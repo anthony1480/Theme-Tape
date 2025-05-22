@@ -362,7 +362,7 @@
           "type": "button",
           "settings": {
             "button_label": "Remove My Flu",
-            "button_link": "shopify://products/nafasi-tape",
+            "button_link": "shopify://products/fresh-taking-nose-tape",
             "button_size": "medium",
             "button_style_secondary": false
           }
