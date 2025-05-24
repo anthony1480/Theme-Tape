@@ -459,10 +459,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>@VimTape</strong></p>",
+            "text": "<p><strong>@VimTape.Gh</strong></p>",
             "text_size": "typeset2",
             "secondary_color": true,
-            "highlight_phrases": "@VimTape",
+            "highlight_phrases": "@VimTape.Gh",
             "highlight_style": "circle"
           }
         }
