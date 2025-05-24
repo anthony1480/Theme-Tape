@@ -17,8 +17,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "✨ 20% OFF SUMMER SALE ✨",
-            "text_on_mobile": "✨ 20% OFF SUMMER SALE ✨",
+            "text": "✨ UP TO 35% OFF SUMMER SALE ✨",
+            "text_on_mobile": "✨ UP TO 35% OFF SUMMER SALE ✨",
             "text_size": 14,
             "link": ""
           }
