@@ -374,10 +374,10 @@
         "button_eRcdn6"
       ],
       "settings": {
-        "image": "shopify://shop_images/K__1427.jpg",
-        "image_2": "shopify://shop_images/K__1503.jpg",
-        "image_3": "shopify://shop_images/K__1494.jpg",
-        "image_4": "shopify://shop_images/K__1468.jpg",
+        "image": "shopify://shop_images/IMG_5359.jpg",
+        "image_2": "shopify://shop_images/IMG_5345.jpg",
+        "image_3": "shopify://shop_images/IMG_5365.jpg",
+        "image_4": "shopify://shop_images/IMG_5347.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
@@ -507,7 +507,7 @@
         "image-4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/K__1503.jpg",
+            "image": "shopify://shop_images/IMG_5348.jpg",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
