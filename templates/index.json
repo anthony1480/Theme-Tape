@@ -398,6 +398,7 @@
           "settings": {
             "icon": "5",
             "text": "<p>Very good, helps alot to breathe</p>",
+            "image": "shopify://shop_images/IMG_5351.jpg",
             "author": "Abina"
           }
         },
@@ -406,14 +407,16 @@
           "settings": {
             "icon": "5",
             "text": "<p>I love it so much and use it everyday</p>",
-            "author": "Aboagye"
+            "image": "shopify://shop_images/IMG_5358.jpg",
+            "author": "Grace"
           }
         },
         "testimonial-2": {
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>This is very good and recommended product</p>",
+            "text": "<p>I feel more relaxed when i sleep now!</p>",
+            "image": "shopify://shop_images/IMG_5365.jpg",
             "author": "Acheampong"
           }
         },
@@ -422,6 +425,7 @@
           "settings": {
             "icon": "5",
             "text": "<p>It's been a long time since i breathed this way</p>",
+            "image": "shopify://shop_images/IMG_5353.jpg",
             "author": "Kwame"
           }
         }
